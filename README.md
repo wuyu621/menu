@@ -2,7 +2,7 @@
 
 Welcome to **Our Menu** — a single-page website showcasing a variety of menu items. Users can browse and filter items seamlessly for an enhanced browsing experience.
 
-Check out the live version of the app: [Our Menu App](#)
+Check out the live version of the app: [Our Menu App](https://ourmenu-reactapp.netlify.app/)
 
 ## Features
 
